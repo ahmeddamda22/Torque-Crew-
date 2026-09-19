@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/torque%2520crew.html" }
+  ]
+}
